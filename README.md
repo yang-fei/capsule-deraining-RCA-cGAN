@@ -1,5 +1,5 @@
 #  <center> Rain-component-aware capsule-GAN for single image de-raining
-## <center> Fei Yang, Jianfeng Ren, Zheng Lu, Jialu Zhang and Qian Zhang
+### <center> Fei Yang, Jianfeng Ren, Zheng Lu, Jialu Zhang and Qian Zhang
 
 ## Dataset
 Rain800: https://pan.baidu.com/s/1FNAFiVt4zcf5xnlGYqTBfw?pwd=lnyy [lnyy]  
