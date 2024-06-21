@@ -7,6 +7,7 @@ Rain100H: https://pan.baidu.com/s/1MGgwoM5eX8jkA3a3PATV6A?pwd=p8gz [p8gz]
 Realrain: https://pan.baidu.com/s/19wzqimvmmgi5jKh5n21uxQ?pwd=1k7j [1k7j]
 
 # BibTex
+'''
 @article{yang2022rain,  
   title={Rain-component-aware capsule-GAN for single image de-raining},  
   author={Yang, Fei and Ren, Jianfeng and Lu, Zheng and Zhang, Jialu and Zhang, Qian},  
@@ -16,7 +17,7 @@ Realrain: https://pan.baidu.com/s/19wzqimvmmgi5jKh5n21uxQ?pwd=1k7j [1k7j]
   year={2022},  
   publisher={Elsevier}  
 }
-
+'''
 
 
 
