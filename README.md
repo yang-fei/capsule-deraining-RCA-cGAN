@@ -1,5 +1,5 @@
 # Capsule-deraining-RCA-cGAN
-Rain-component-aware capsule-GAN for single image de-raining
+Paper: Rain-component-aware capsule-GAN for single image de-raining
 ## Project of de-raining
 
 ## Dataset
